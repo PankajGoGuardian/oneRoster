@@ -1,0 +1,12 @@
+sourcedId,enabledUser,status,dateLastModified,orgSourcedIds,role,username,userId,givenName,familyName,identifier,email,sms,phone,agents,ext_imagineLearning_databaseId,ext_imagineLearning_ssoId,ext_imagineLearning_studentPassword,ext_imagineLearning_studentGrade,ext_imagineLearning_Language,ext_tao_userMotherName,ext_tao_userFatherName
+user1,TRUE,,,12345,student,ionut,abc1,ionut,padurariu,user identifier,,,,,,,,,,metadata.value1,metadata.value2
+user2,TRUE,,,54321,student,ionut2,abc2,ionut2,padurariu,user identifier 2,,,,,,,,,,,
+user3,TRUE,,,54321,teacher,ionut3,abc3,ionut3,cena,user identifier 3,,,,,,,,,,,
+user4,TRUE,,,12345,student,ionut4,abc4,ionut4,padurariu,user identifier 4,,,,,,,,,,,
+user5,TRUE,,,12345,teacher,ionut5,abc5,ionut5,cena,user identifier 5,,,,,,,,,,,
+user6,TRUE,,,54321,student,ionut6,abc6,ionut6,padurariu,user identifier 6,,,,,,,,,,,
+user7,TRUE,,,54321,student,ionut7,abc7,ionut7,padurariu,user identifier 7,,,,,,,,,,,
+user8,TRUE,,,12345,teacher,ionut8,abc8,ionut8,cena,user identifier 8,,,,,,,,,,,
+user9,TRUE,,,54321,student,ionut9,abc9,ionut9,padurariu,user identifier 9,,,,,,,,,,,
+user10,TRUE,,,54321,student,ionut10,abc10,ionut10,padurariu,user identifier 10,,,,,,,,,,,
+user11,TRUE,,,54321,administrator,ionut11,abc11,ionut11,johnson,user identifier 10,,,,,,,,,,,

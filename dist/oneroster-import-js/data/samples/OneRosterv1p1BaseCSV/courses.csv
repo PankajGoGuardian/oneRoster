@@ -1,0 +1,5 @@
+sourcedId,status,dateLastModified,schoolYearId,metadata.duration,title,courseCode,grade,orgSourcedId,subjects
+course1,active,,term2,,oneroster-course1,217,7,12345,Maths
+course2,active,,term2,,oneroster-course2,101,7,12345,science
+course3,active,,term2,,oneroster-course3,323,7,54321,algebra
+course4,active,,term2,,oneroster-course4,545,7,54321,geometry

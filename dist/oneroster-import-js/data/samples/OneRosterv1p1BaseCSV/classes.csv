@@ -1,0 +1,4 @@
+sourcedId,status,dateLastModified,title,grade,courseSourcedId,classCode,classType,location,schoolSourcedId,termSourcedIds,subjects,ext_imagineLearning_databaseId
+class1,active,2017-04-05,Class 1 title,2,course1,,scheduled,Luxembourg,12345,term2,0,
+class2,,,Class 2 title,,course2,,scheduled,,12345,term2,,
+class3,,,Class 3 title,,course3,,scheduled,Luxembourg,54321,term2,,

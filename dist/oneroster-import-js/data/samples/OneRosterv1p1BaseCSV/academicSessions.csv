@@ -1,0 +1,5 @@
+sourcedId,status,dateLastModified,title,type,startDate,endDate,parentSourcedId,schoolYear
+term1,active,2021-06-23,term 1 title,term,2021-06-01,2022-05-31,,2022,
+term2,active,2022-06-23,term 1 title,term,2022-06-01,2023-05-31,,2023
+term3,active,2023-06-23,term 1 title,term,2023-06-01,2024-05-31,,2024
+term4,active,2024-06-23,term 1 title,term,2024-06-01,2025-05-31,,2025
